@@ -1,0 +1,31 @@
+body{
+   background:url("images.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+
+
+}
+
+
+.a{
+ 
+
+	
+	background-color:yellow;
+	padding: 10px;
+    width:500px;
+
+}
+.b{
+	padding: 8px;
+    background-color: red;
+    width:250px;
+    cursor:hand;
+
+   
+}
+.ac{
+
+
+	margin:200px;
+}
